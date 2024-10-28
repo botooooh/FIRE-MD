@@ -6,7 +6,7 @@ import fs from 'fs'
 import dotenv from 'dotenv'
 dotenv.config()
 
-const ownervb = process.env.OWNERS || "2349013432338; Opaksfire"
+const ownervb = process.env.OWNERS || "2250151191073; 🗿.ᚽᐯᚣᚻₛₖᵤₗₗ.👑"
 
 
 const ownerlist = ownervb.split(';');
@@ -23,9 +23,9 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['2349013432338', '2349013432338']
-global.prems = ['2349013432338', '2349013432338', '2349013432338']
-global.allowed = ['2349013432338', '2349013432338', '2349013432338']
+global.mods = ['2250151191073', '2250151191073']
+global.prems = ['2250151191073', '2250151191073', '2250151191073']
+global.allowed = ['2250151191073', '2250151191073', '2250151191073']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
@@ -71,9 +71,9 @@ global.APIKeys = {
 // Sticker WM
 global.botname = process.env.BOTNAME
 global.premium = 'false'
-global.packname = 'FIRE MD'
-global.author = 'OPAKSFIRE'
-global.menuvid = 'https://files.catbox.moe/r9oil6.mp4'
+global.packname = '🗿GiGaTeuBe MD'
+global.author = '🗿.ᚽᐯᚣᚻₛₖᵤₗₗ.👑'
+global.menuvid = 'https://www.google.com/search?q=gojo&oq=gojo&gs_lcrp=EgZjaHJvbWUqBwgAEAAYjwIyBwgAEAAYjwIyCggBEC4YsQMYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBggHEEUYPDIHCAgQABiABDIHCAkQABiABDIHCAoQABiABDIHCAsQLhiABDIHCAwQABiABDIHCA0QABiABDIHCA4QABiABNIBCDIzMDdqMGo3qAIUsAIB&sourceid=chrome-mobile&ie=UTF-8#vhid=l1q02rx9C-iVFM&vssid=l&ebo=0'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/\n'
 global.dygp = 'https://whatsapp.com/channel/0029VajYjMJJf05aRQXKx82W'
 global.fgsc = 'https://github.com/'
@@ -84,7 +84,7 @@ global.thumb = fs.readFileSync('./Assets/fire.jpg')
 
 global.wait = '*🕑 _processing..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '🕑'
-global.dmoji = '🤭'
+global.dmoji = '🗿'
 global.done = '✅'
 global.error = '❌'
 global.xmoji = '🔥'
